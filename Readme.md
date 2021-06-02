@@ -29,8 +29,11 @@ The Proposed Architecture In The Research Paper
 First, we adopt a convolutional neural network, i.e., ResNet50 [42] to produce a set of feature maps with different resolutions. Then, we take the feature maps F ∈ RC×H×W with the smallest resolution and highly-semantic information (the deepest convolutional layer in ResNet50) as the inputs for the following two disease-specific attention modules, which learn the disease-specific features F∈ RC×H×W and Fj ∈ RC×H×W to understand each individual disease.
 The disease-specific attention module to selectively learn useful features for individual diseases, and also design an effective disease-dependent attention module to capture the internal relationship between two diseases.
 Afterward, we propose disease-dependent attention modules to explore the internal relationship between the two correlative diseases and produce the disease-dependent features for DR and DME, respectively. Finally, we predict the grading scores for DR and DME based on the learned disease-dependent features.
-  
 
+  
+# <a name="project-info"> Dataset
+IDRID Dataset
+Messidor Dataset
 ## <a name="requirements"> Requirements
 
 - Tensorflow 2.1
