@@ -4,10 +4,7 @@ Joint Diabetic Retinopathy and Diabetic
 Macular Edema Grading </h1>
 </code>
 
-<!-- For logo -->
-<!-- <p align="center">
-  <img src="https://github.com/shoheiyokoyama/Assets/blob/master/Gemini/logo.png" width="500">
-</p> -->
+
 
 # Overview
 
