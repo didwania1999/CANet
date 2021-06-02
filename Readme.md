@@ -1,5 +1,7 @@
 <code>
-  <h1 align="center">Project Title </h1>
+  <h1 align="center">CANet: Cross-Disease Attention Network for
+Joint Diabetic Retinopathy and Diabetic
+Macular Edema Grading </h1>
 </code>
 
 <!-- For logo -->
