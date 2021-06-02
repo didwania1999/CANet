@@ -13,13 +13,16 @@ Macular Edema Grading </h1>
 
 <!-- <img src="https://github.com/shoheiyokoyama/Assets/blob/master/Gemini/demo-circle-rotation.gif" align="left"> -->
 
-## What is the `Project`?
 
-`Project` is Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut porttitor risus, in ultricies arcu. Donec justo ligula, faucibus sed gravida sit
-amet, pulvinar a leo. Ut porta volutpat sem non tempor. Mauris sit amet arcu vitae justo blandit semper. Ut faucibus vestibulum pulvinar.
-Praesent hendrerit dapibus dolor nec volutpat. Vivamus tristique rutrum convallis. Praesent dignissim sed est ut pharetra. Donec
-hendrerit ante eget lorem aliquet lacinia. Vivamus vel quam ut ante eleifend maximus a in est. Donec id nisi tincidunt, aliquam augue et,
-pretium ligula. Sed gravida in justo id iaculis. Vestibulum at quam a ligula rhoncus fermentum.
+
+Diabetic retinopathy (DR) and diabetic macular
+edema (DME) are the leading causes of permanent
+blindness in theworking-age population.Automatic grading
+of DR and DME helps ophthalmologists design tailored
+treatments to patients, thus is of vital importance in the clinical
+practice. However, prior works either grade DR or DME,
+and ignore the correlation betweenDR and its complication,
+i.e ., DME.
 
 ```python
 def main()
